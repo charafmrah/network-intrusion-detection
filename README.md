@@ -9,13 +9,13 @@
   <p align="center">
   Network Intrusion Detection using Machine Learning
     <br />
-    <a href="https://github.com/charafmrah/network-intrustion-detection"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/charafmrah/network-intrusion-detection"><strong>Explore the docs »</strong></a>
     <br />
     <br />
+    
+    <a href="https://github.com/charafmrah/network-intrusion-detection/issues">Report Bug</a>
     ·
-    <a href="https://github.com/charafmrah/network-intrustion-detection/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/charafmrah/network-intrustion-detection/issues">Request Feature</a>
+    <a href="https://github.com/charafmrah/network-intrusion-detection/issues">Request Feature</a>
   </p>
 </div>
 
@@ -71,8 +71,8 @@ Charaf Mrah - [@charafmrah](https://twitter.com/charafmrah) - charaf4charaf@gmai
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[license-shield]: https://img.shields.io/github/license/charafmrah/network-intrustion-detection.svg?style=for-the-badge
-[license-url]: https://github.com/charafmrah/network-intrustion-detection/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/charafmrah/network-intrusion-detection.svg?style=for-the-badge
+[license-url]: https://github.com/charafmrah/network-intrusion-detection/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/charafmrah
 [product-screenshot]: network-intrusion.jpg

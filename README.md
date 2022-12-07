@@ -5,17 +5,14 @@
 <div align="center">
 
  <h3 align="center">Network Intrusion Detection</h3>
-
-  <p align="center">
+<p align="center">
   Network Intrusion Detection using Machine Learning
     <br />
-    <a href="https://github.com/charafmrah/network-intrusion-detection"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/charafmrah/network-intrustion-detection"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    
-    <a href="https://github.com/charafmrah/network-intrusion-detection/issues">Report Bug</a>
+    <a href="https://github.com/charafmrah/network-intrustion-detection/issues">Report Bug</a>
     ·
-    <a href="https://github.com/charafmrah/network-intrusion-detection/issues">Request Feature</a>
+    <a href="https://github.com/charafmrah/network-intrustion-detection/issues">Request Feature</a>
   </p>
 </div>
 

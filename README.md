@@ -26,6 +26,13 @@
 Applying machine learning algorithms to a network dataset, which encompasses a broad range of intrusions that were simulated in a military network atmosphere. This created a way to acquire fresh TCP/IP dump information for a network by replicating a customary U.S. Air Force LAN. The LAN mirrored a realistic environment and was struck with multiple attacks. A connection is a sequence of TCP packets beginning and ending at a certain period, when data moves from a source IP address to a target IP address using a definite protocol. Each connection is identified as either ordinary or featuring a particular attack type. Each connection holds about 100 bytes.
 For each TCP/IP connection, 41 features are obtained from the normal and attack data (3 qualitative and 38 quantitative features). The class variable consists of two categories: Normal and Anomalous.
 
+The dataset used is the KDD Cup 1999 dataset, which is available at the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/KDD+Cup+1999+Data).
+
+The dataset is also used by the [NSL-KDD](https://www.unb.ca/cic/datasets/nsl.html) dataset, which is a more recent dataset that is based on the KDD Cup 1999 dataset.
+
+The dataset is usually used by researchers to test their intrusion & anomoly detection systems. The dataset is also used by researchers to test their machine learning algorithms. 
+
+### Dataset features descriptions:
 #### Basic features of individual TCP connections:
 * duration:	length (number of seconds) of the connection [continuous]
 * protocol_type: type of the protocol, e.g. tcp, udp, etc. [discrete]
@@ -64,7 +71,8 @@ For each TCP/IP connection, 41 features are obtained from the normal and attack 
 * srv_diff_host_rate: % of connections to different hosts [continuous]
 
 
-#### Types of attacks: 
+
+### Types of attacks: 
 * DOS: denial-of-service, e.g. syn flood;
 * R2L: unauthorized access from a remote machine, e.g. guessing password;
 * U2R:  unauthorized access to local superuser (root) privileges, e.g., various "buffer overflow" attacks;

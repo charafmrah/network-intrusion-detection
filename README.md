@@ -64,6 +64,12 @@ For each TCP/IP connection, 41 features are obtained from the normal and attack 
 * srv_diff_host_rate: % of connections to different hosts [continuous]
 
 
+#### Types of attacks: 
+* DOS: denial-of-service, e.g. syn flood;
+* R2L: unauthorized access from a remote machine, e.g. guessing password;
+* U2R:  unauthorized access to local superuser (root) privileges, e.g., various "buffer overflow" attacks;
+* probing: surveillance and other probing, e.g., port scanning.
+
 
 ### Used Technologies:
 

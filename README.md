@@ -31,6 +31,7 @@ For each TCP/IP connection, 41 features are obtained from the normal and attack 
 - [![Python][python]][python-url]
 - [![Jupyter][jupyter]][jupyter-url]
 - [![Pandas][pandas]][pandas-url]
+- [![Numpy][numpy]][numpy-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -81,3 +82,5 @@ Charaf Mrah - [@charafmrah](https://twitter.com/charafmrah) - charaf4charaf@gmai
 [jupyter-url]: https://jupyter.org/
 [pandas]: https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white
 [pandas-url]: https://pandas.pydata.org/
+[numpy]: https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy&logoColor=white
+[numpy-url]: https://numpy.org/

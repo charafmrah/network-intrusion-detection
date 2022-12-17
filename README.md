@@ -78,6 +78,8 @@ The dataset is usually used by researchers to test their intrusion & anomoly det
 * U2R:  unauthorized access to local superuser (root) privileges, e.g., various "buffer overflow" attacks;
 * probing: surveillance and other probing, e.g., port scanning.
 
+The test data used in this task differs from the training data in terms of the distribution of data and the types of attacks included. This makes the task more realistic, as it reflects the idea that novel attacks are often variations of known attacks. The training data includes 24 types of attacks, while the test data includes an additional 14 types.
+
 
 ### Used Technologies:
 
@@ -114,7 +116,7 @@ Charaf Mrah - [@charafmrah](https://twitter.com/charafmrah) - charaf4charaf@gmai
 
 ## Acknowledgments
 
--[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+-[UCI Machine Learning Repository - KDD Cup 1999 Data](https://archive.ics.uci.edu/ml/datasets/KDD+Cup+1999+Data)
 -[Jupyter Notebook](https://jupyter.org/)
 -[Pandas](https://pandas.pydata.org/)
 -[Numpy](https://numpy.org/)

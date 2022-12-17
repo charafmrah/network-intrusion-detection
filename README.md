@@ -30,7 +30,7 @@ The dataset used is the KDD Cup 1999 dataset, which is available at the [UCI Mac
 
 The dataset is also used by the [NSL-KDD](https://www.unb.ca/cic/datasets/nsl.html) dataset, which is a more recent dataset that is based on the KDD Cup 1999 dataset.
 
-The dataset is usually used by researchers to test their intrusion & anomoly detection systems. The dataset is also used by researchers to test their machine learning algorithms. 
+The dataset is usually used by researchers to test their intrusion & anomoly detection systems. The dataset is also used by researchers to test their machine learning algorithms.
 
 ### Dataset features descriptions:
 #### Basic features of individual TCP connections:
@@ -82,9 +82,6 @@ The dataset is usually used by researchers to test their intrusion & anomoly det
 ### Used Technologies:
 
 - [![Python][python]][python-url]
-- [![Jupyter][jupyter]][jupyter-url]
-- [![Pandas][pandas]][pandas-url]
-- [![Numpy][numpy]][numpy-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,7 +114,12 @@ Charaf Mrah - [@charafmrah](https://twitter.com/charafmrah) - charaf4charaf@gmai
 
 ## Acknowledgments
 
-- [Kaggle Dataset](https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection?resource=download)
+-[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+-[Jupyter Notebook](https://jupyter.org/)
+-[Pandas](https://pandas.pydata.org/)
+-[Numpy](https://numpy.org/)
+-[Matplotlib](https://matplotlib.org/)
+-[Scikit-learn](https://scikit-learn.org/stable/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,9 +133,3 @@ Charaf Mrah - [@charafmrah](https://twitter.com/charafmrah) - charaf4charaf@gmai
 [product-screenshot]: assets/network-intrusion.jpg
 [python]: https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
 [python-url]: https://www.python.org/
-[jupyter]: https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white
-[jupyter-url]: https://jupyter.org/
-[pandas]: https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white
-[pandas-url]: https://pandas.pydata.org/
-[numpy]: https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy&logoColor=white
-[numpy-url]: https://numpy.org/

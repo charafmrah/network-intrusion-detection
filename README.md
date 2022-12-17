@@ -74,7 +74,7 @@ Charaf Mrah - [@charafmrah](https://twitter.com/charafmrah) - charaf4charaf@gmai
 [license-url]: https://github.com/charafmrah/network-intrusion-detection/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/charafmrah
-[product-screenshot]: assets/etwork-intrusion.jpg
+[product-screenshot]: assets/network-intrusion.jpg
 [python]: https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
 [python-url]: https://www.python.org/
 [jupyter]: https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white

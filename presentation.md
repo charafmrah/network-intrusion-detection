@@ -1,12 +1,10 @@
 ---
 marp: true
 theme: uncover
-paginate: true
 size: 16:9
 ---
 
-# Presentation
+# Network Intrusion Detection 
+by: Charaf-Eddine M'rah
 
 ---
-
-

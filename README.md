@@ -83,7 +83,7 @@ The dataset is usually used by researchers to test their intrusion & anomoly det
 * dst_host_srv_rerror_rate: % of connections that have "REJ" errors [continuous]
 
 #### The following feature is the target variable (included in the training set only):
-* class: normal or attack [discrete]
+* class: normal or anomaly(attack) [discrete]
 
 
 

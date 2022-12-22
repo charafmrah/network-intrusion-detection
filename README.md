@@ -63,9 +63,9 @@ The dataset is usually used by researchers to test their intrusion & anomoly det
 * count: number of connections to the same host as the current connection in the past two seconds [continuous]
 * srv_count: number of connections to the same service as the current connection in the past two seconds [continuous]
 * serror_rate: % of connections that have "SYN" errors [continuous]
-* srv_serror_rate: % of connections that have "SYN" errors [continuous]
+* srv_serror_rate: % of connections to the same service that have "SYN" errors [continuous]
 * rerror_rate: % of connections that have "REJ" errors [continuous]
-* srv_rerror_rate: % of connections that have "REJ" errors [continuous]
+* srv_rerror_rate: % of connections to the same service that have "REJ" errors [continuous]
 * same_srv_rate: % of connections to the same service [continuous]
 * diff_srv_rate: % of connections to different services [continuous]
 * srv_diff_host_rate: % of connections to different hosts [continuous]
@@ -132,6 +132,7 @@ Charaf Mrah - [@charafmrah](https://twitter.com/charafmrah) - charaf4charaf@gmai
 ## Acknowledgments
 
 - [UCI Machine Learning Repository - KDD Cup 1999 Data](https://archive.ics.uci.edu/ml/datasets/KDD+Cup+1999+Data)
+- [A Detailed Analysis of the KDD CUP 99 Data Set](https://www.ecb.torontomu.ca/~bagheri/papers/cisda.pdf)
 - [Supervised Learning cheatsheet - Stanford](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
 - [Jupyter Notebook](https://jupyter.org/)
 - [Pandas](https://pandas.pydata.org/)

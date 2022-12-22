@@ -70,6 +70,21 @@ The dataset is usually used by researchers to test their intrusion & anomoly det
 * diff_srv_rate: % of connections to different services [continuous]
 * srv_diff_host_rate: % of connections to different hosts [continuous]
 
+#### Time-based features:
+* dst_host_count: number of connections to the same host as the current connection in the past two seconds [continuous]
+* dst_host_srv_count: number of connections to the same service as the current connection in the past two seconds [continuous]
+* dst_host_same_srv_rate: % of connections to the same service [continuous]
+* dst_host_diff_srv_rate: % of connections to different services [continuous]
+* dst_host_same_src_port_rate: % of connections to the same source port [continuous]
+* dst_host_srv_diff_host_rate: % of connections to different hosts [continuous]
+* dst_host_serror_rate: % of connections that have "SYN" errors [continuous]
+* dst_host_srv_serror_rate: % of connections that have "SYN" errors [continuous]
+* dst_host_rerror_rate: % of connections that have "REJ" errors [continuous]
+* dst_host_srv_rerror_rate: % of connections that have "REJ" errors [continuous]
+
+#### The following feature is the target variable (included in the training set only):
+* class: normal or attack [discrete]
+
 
 
 ### Types of attacks: 

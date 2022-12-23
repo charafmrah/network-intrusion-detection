@@ -132,13 +132,12 @@ Charaf Mrah - [@charafmrah](https://twitter.com/charafmrah) - charaf4charaf@gmai
 ## Acknowledgments
 
 - [UCI Machine Learning Repository - KDD Cup 1999 Data](https://archive.ics.uci.edu/ml/datasets/KDD+Cup+1999+Data)
-- [A Detailed Analysis of the KDD CUP 99 Data Set](https://www.ecb.torontomu.ca/~bagheri/papers/cisda.pdf)
 - [Supervised Learning cheatsheet - Stanford](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
 - [Jupyter Notebook](https://jupyter.org/)
 - [Pandas](https://pandas.pydata.org/)
 - [Numpy](https://numpy.org/)
-- [Matplotlib](https://matplotlib.org/)
 - [Scikit-learn](https://scikit-learn.org/stable/)
+- [Plotly](https://plotly.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

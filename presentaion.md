@@ -6,7 +6,7 @@ paginate: true
 size: 16:9
 style: |
   section {
-    text-align: left;
+    text-align: center;
   }
 ---
 
@@ -61,8 +61,33 @@ The following machine learning models were applied:
 
 ---
 
-class distribiution
-![width=220px](assets/class-distribution.png)
+![width=100%](assets/class-distribution.png)
+
+---
+
+![width=100%](assets/protocol-type-ratio.png)
+
+---
+
+![width=100%](assets/service-ratio.png)
+
+---
+
+![width=100%](assets/flag-ratio.png)
+
+---
+
+![width=100$](assets/heatmap.png)
+
+---
+
+![width=100%](assets/features-importance.png)
+
+---
+
+### Data splitting
+
+- The "Train-dataset was split into a training set (80%) and a test set (20%).
 
 ---
 

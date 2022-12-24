@@ -144,10 +144,6 @@ Charaf Mrah - [@charafmrah](https://twitter.com/charafmrah) - charaf4charaf@gmai
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[license-shield]: https://img.shields.io/github/license/charafmrah/network-intrusion-detection.svg?style=for-the-badge
-[license-url]: https://github.com/charafmrah/network-intrusion-detection/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/charafmrah
 [product-screenshot]: assets/network-intrusion-detection.png
 [python]: https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
 [python-url]: https://www.python.org/

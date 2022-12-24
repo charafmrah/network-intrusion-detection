@@ -61,33 +61,39 @@ The following machine learning models were applied:
 
 ---
 
-![width=100%](images/visualizations/class-distribution.png)
+![bg left height:5in](images/visualizations/class-distribution.png)
+
+- The dataset is balanced with 13449 normal connections and 11743 malicious connections.
 
 ---
 
-![width=100%](images/protocol-type-ratio.png)
+![bg height:6in](images/visualizations/protocol-type-ratio.png)
 
 ---
 
-![width=100%](images/service-ratio.png)
+![bg height:6in](images/visualizations/service-ratio.png)
 
 ---
 
-![width=100%](images/flag-ratio.png)
+![bg height:6in](images/visualizations/flag-ratio.png)
 
 ---
 
-![width=100$](images/heatmap.png)
+![bg left height:5in](images/visualizations/heatmap.png)
+
+The heatmap shows that there is a correlation between the following features:
+
+- 
 
 ---
 
-![width=100%](images/features-importance.png)
+![bg left height:5in](images/visualizations/features-importance.png)
 
 ---
 
 ### Data splitting
 
-- The "Train-dataset was split into a training set (80%) and a test set (20%).
+- The dataset was split into a training set (80%) and a test set (20%).
 
 - The "Test-dataset" is used to evaluate the final model.
 
@@ -122,7 +128,7 @@ The following machine learning models were applied:
 
 ---
 
-## 5 - Summary 
+## 5 - Summary
 
 <!-- Summary of the key findings and results of the project
 Next steps for the project. -->

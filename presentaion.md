@@ -61,33 +61,35 @@ The following machine learning models were applied:
 
 ---
 
-![width=100%](assets/class-distribution.png)
+![width=100%](images/visualizations/class-distribution.png)
 
 ---
 
-![width=100%](assets/protocol-type-ratio.png)
+![width=100%](images/protocol-type-ratio.png)
 
 ---
 
-![width=100%](assets/service-ratio.png)
+![width=100%](images/service-ratio.png)
 
 ---
 
-![width=100%](assets/flag-ratio.png)
+![width=100%](images/flag-ratio.png)
 
 ---
 
-![width=100$](assets/heatmap.png)
+![width=100$](images/heatmap.png)
 
 ---
 
-![width=100%](assets/features-importance.png)
+![width=100%](images/features-importance.png)
 
 ---
 
 ### Data splitting
 
 - The "Train-dataset was split into a training set (80%) and a test set (20%).
+
+- The "Test-dataset" is used to evaluate the final model.
 
 ---
 
@@ -100,6 +102,13 @@ The following machine learning models were applied:
 
 - Results of the model comparison and selection of the best-performing model 
 -->
+
+- The four machine learning models that were applied are:
+
+- Logistic Regression
+- K-Nearest Neighbors
+- Random Forest
+- Support Vector Machine
 
 ---
 

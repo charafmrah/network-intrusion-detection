@@ -57,6 +57,13 @@ The following machine learning models were applied:
 - Summary of key insights and observations from the initial data exploration 
 -->
 
+- The raw data is in the form of a CSV file with 494,021 rows and 42 columns.
+
+---
+
+class distribiution
+![width=220px](assets/class-distribution.png)
+
 ---
 
 ## 3 - Models Training

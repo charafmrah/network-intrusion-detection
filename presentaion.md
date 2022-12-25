@@ -209,4 +209,4 @@ Next steps for the project. -->
 
 - Machine learning models can be used to detect network intrusions and other malicious activity with high accuracy.
 - The Random Forest model has the best performance with an accuracy of 99.5%.
-- This is an alternative to the traditional signature-based detection methods. 
+- This is an alternative to the traditional signature-based detection methods.

@@ -79,18 +79,7 @@ The following machine learning models were applied:
 
 ---
 
-![bg height:6in](images/visualizations/flag-ratio.png)
-
----
-
 ![bg height:6in](images/visualizations/heatmap.png)
-
----
-
-![bg left height:5in](images/visualizations/corr-1.png)
-
-- dst_host_serror_rate: % of connections that have "SYN" errors
-- serror_rate: % of connections that have "SYN" errors
 
 ---
 
@@ -112,7 +101,7 @@ The following machine learning models were applied:
 
 - The dataset was split into a training set (80%) and a test set (20%).
 
-- The "Test-dataset" is used to evaluate the final model.
+- The test dataset is used to evaluate the final model.
 
 ---
 

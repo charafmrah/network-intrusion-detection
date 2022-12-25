@@ -6,7 +6,7 @@ paginate: true
 size: 16:9
 style: |
   section {
-    text-align: center;
+    text-align: left;
   }
 ---
 
@@ -24,6 +24,8 @@ by Charaf-Eddine M'rah
 - Overview of the project objectives and the machine learning models that were applied
 -->
 
+---
+
 - The KDD Cup 1999 dataset is a widely used benchmark dataset in data mining and machine learning, containing 41 features and 494,021 instances.
 
 - The purpose of the KDD Cup 1999 dataset is to evaluate the performance of algorithms for detecting network intrusions and other malicious activity.
@@ -32,7 +34,7 @@ by Charaf-Eddine M'rah
 
 ### Objective of the Project
 
-The objective of this project is to build a machine learning model that can accurately predict whether a network connection is malicious or benign.
+The main objective of this project is to build a machine learning model that can detect network intrusions and other malicious activity with high accuracy.
 
 ---
 
@@ -56,6 +58,8 @@ The following machine learning models were applied:
 
 - Summary of key insights and observations from the initial data exploration 
 -->
+
+---
 
 - The raw data is in the form of a CSV file with 494,021 rows and 42 columns.
 
@@ -121,6 +125,8 @@ The following machine learning models were applied:
 
 - Results of the model comparison and selection of the best-performing model 
 -->
+
+---
 
 The four machine learning models that were applied are:
 

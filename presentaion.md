@@ -12,7 +12,7 @@ style: |
 
 # Network Intrusion Detection
 
-by Charaf-Eddine M'rah 
+by Charaf-Eddine M'rah
 
 ---
 
@@ -26,15 +26,15 @@ by Charaf-Eddine M'rah
 
 ---
 
-- The KDD Cup 1999 dataset is a widely used benchmark dataset in data mining and machine learning, containing 41 features and 494,021 instances.
-
-- The purpose of the KDD Cup 1999 dataset is to evaluate the performance of algorithms for detecting network intrusions and other malicious activity.
-
----
-
 ### Objective of the Project
 
 The main objective of this project is to build a machine learning model that can detect network intrusions and other malicious activity with high accuracy.
+
+---
+
+- The KDD Cup 99 dataset is a widely used benchmark dataset in data mining and machine learning, containing 41 features and 494,021 instances.
+
+- The purpose of the KDD Cup 99 dataset is to evaluate the performance of algorithms for detecting network intrusions and other malicious activity.
 
 ---
 
@@ -176,6 +176,12 @@ Support Vector Machine is a supervised machine learning algorithm which can be u
 
 ---
 
+- The confusion matrix for the Random Forest model and Logistic Regression model are equal.
+
+- But does that mean they'll perform the same?
+
+---
+
 ### Cross-Validation
 
 - Used 10-fold cross-validation to evaluate the models.
@@ -184,7 +190,9 @@ Support Vector Machine is a supervised machine learning algorithm which can be u
 
 ### Key Insights
 
-- The Random Forest model has the best performance with an accuracy of 99.5%.
+- The Random Forest model has the best performance with an accuracy of 99.5% and a false negative rate of 0.004%.
+
+- Logistic Regression might be overfitting the data.
 
 - The Support Vector Machine model has the worst performance with an accuracy of 91%.
 

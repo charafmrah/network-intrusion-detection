@@ -61,7 +61,7 @@ The following machine learning models were applied:
 
 ---
 
-- The raw data is in the form of a CSV file with 494,021 rows and 42 columns.
+- The raw data is in the form of a CSV file with 25192 rows and 42 columns.
 
 ---
 

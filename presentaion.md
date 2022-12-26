@@ -194,7 +194,7 @@ Support Vector Machine is a supervised machine learning algorithm which can be u
 
 - Logistic Regression might be overfitting the data.
 
-- The Support Vector Machine model has the worst performance with an accuracy of 91%.
+- The Logistic Regression model has the worst performance with an accuracy of 93.7%.
 
 ---
 

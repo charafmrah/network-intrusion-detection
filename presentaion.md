@@ -32,7 +32,7 @@ The main objective of this project is to build a machine learning model that can
 
 ---
 
-- The KDD Cup 99 dataset is a widely used benchmark dataset in data mining and machine learning, containing 41 features and 494,021 instances.
+- The KDD Cup 99 dataset is a widely used benchmark dataset in data mining and machine learning, containing 41 features and 494,021 instances. The dataset we're using is a subset of the original dataset.
 
 - The purpose of the KDD Cup 99 dataset is to evaluate the performance of algorithms for detecting network intrusions and other malicious activity.
 

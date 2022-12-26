@@ -1,7 +1,6 @@
 ---
 marp: true
 theme: uncover
-class: invert
 paginate: true
 size: 16:9
 style: |

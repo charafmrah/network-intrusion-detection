@@ -32,8 +32,10 @@ The dataset is also used by the [NSL-KDD](https://www.unb.ca/cic/datasets/nsl.ht
 
 The dataset is usually used by researchers to test their intrusion & anomoly detection systems. The dataset is also used by researchers to test their machine learning algorithms.
 
-### Dataset features descriptions:
-#### Basic features of individual TCP connections:
+### Dataset features descriptions
+
+#### Basic features of individual TCP connections
+
 * duration:	length (number of seconds) of the connection [continuous]
 * protocol_type: type of the protocol, e.g. tcp, udp, etc. [discrete]
 * service: network service on the destination, e.g., http, telnet, etc. [discrete]
@@ -44,7 +46,8 @@ The dataset is usually used by researchers to test their intrusion & anomoly det
 * wrong_fragment: number of "wrong" fragments [continuous]
 * urgent: number of urgent packets [continuous]
 
-#### Content features within a connection:
+#### Content features within a connection
+
 * hot: number of "hot" indicators [continuous]
 * num_failed_logins: number of failed login attempts [continuous]
 * logged_in: 1 if successfully logged in; 0 otherwise [discrete]
@@ -59,7 +62,8 @@ The dataset is usually used by researchers to test their intrusion & anomoly det
 * is_host_login: 1 if the login belongs to the "hot" list; 0 otherwise [discrete]
 * is_guest_login: 1 if the login is a "guest login"; 0 otherwise [discrete]
 
-#### Traffic features within a connection:
+#### Traffic features within a connection
+
 * count: number of connections to the same host as the current connection in the past two seconds [continuous]
 * srv_count: number of connections to the same service as the current connection in the past two seconds [continuous]
 * serror_rate: % of connections that have "SYN" errors [continuous]
@@ -70,7 +74,8 @@ The dataset is usually used by researchers to test their intrusion & anomoly det
 * diff_srv_rate: % of connections to different services [continuous]
 * srv_diff_host_rate: % of connections to different hosts [continuous]
 
-#### Time-based features:
+#### Time-based features
+
 * dst_host_count: number of connections to the same host as the current connection in the past two seconds [continuous]
 * dst_host_srv_count: number of connections to the same service as the current connection in the past two seconds [continuous]
 * dst_host_same_srv_rate: % of connections to the same service [continuous]
@@ -83,20 +88,10 @@ The dataset is usually used by researchers to test their intrusion & anomoly det
 * dst_host_srv_rerror_rate: % of connections that have "REJ" errors [continuous]
 
 #### The following feature is the target variable (included in the training set only):
+
 * class: normal or anomaly(attack) [discrete]
 
-
-
-### Types of attacks: 
-* DOS: denial-of-service, e.g. syn flood;
-* R2L: unauthorized access from a remote machine, e.g. guessing password;
-* U2R:  unauthorized access to local superuser (root) privileges, e.g., various "buffer overflow" attacks;
-* probing: surveillance and other probing, e.g., port scanning.
-
-The test data used in this task differs from the training data in terms of the distribution of data and the types of attacks included. This makes the task more realistic, as it reflects the idea that novel attacks are often variations of known attacks. The training data includes 24 types of attacks, while the test data includes an additional 14 types.
-
-
-### Used Technologies:
+### Used Technologies
 
 - [![Python][python]][python-url]
 

@@ -139,6 +139,6 @@ Charaf Mrah - [@charafmrah](https://twitter.com/charafmrah) - charaf4charaf@gmai
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[product-screenshot]: assets/network-intrusion-detection.png
+[product-screenshot]: images/network-intrusion-detection.png
 [python]: https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
 [python-url]: https://www.python.org/
